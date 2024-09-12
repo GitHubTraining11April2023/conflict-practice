@@ -1,5 +1,5 @@
 (function(exports){
-
+//Test1 confilict 
 	// Singleton
 	var Mouse = {
 		x: 0,
